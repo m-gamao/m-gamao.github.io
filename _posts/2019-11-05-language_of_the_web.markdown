@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Language of the Web"
-date:       2019-11-05 12:25:15 +0000
+date:       2019-11-05 07:25:16 -0500
 permalink:  language_of_the_web
 ---
 
