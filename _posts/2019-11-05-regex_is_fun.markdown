@@ -1,24 +1,23 @@
 ---
 layout: post
 title:      "Regex is fun"
-date:       2019-11-05 16:46:33 +0000
+date:       2019-11-05 11:46:35 -0500
 permalink:  regex_is_fun
 ---
 
 
-Regular Expression or Regex is a tool that you can use to search for a specific pattern within any text.
-
-It can be used in almost any programming language.  I put together a little cheat sheet for myself here.
+Regular Expression or Regex is a tool that you can use to search for a specific pattern within any text.  It can be used in almost any programming language.  I put together a little cheat sheet for myself here.
 
 Here's a basic list below:
-[abc.]	 It includes only one of specified characters i.e. ‘a’, ‘b’, ‘c’, or ‘.’
-[a-j]      It includes all the characters from a to j.
-[a-z]   	It includes all lowercase characters from a to z.
-[^az]	   It includes all characters except a and z.
-\w	       It includes all characters like [a-z, A-Z, 0-9]
-\d	       It matches for the digits like [0-9]
-[ab][^cde]	It matches that the characters a and b should not be followed by c, d and e.
-\s	        It matches for [\f\t\n\r] i.e form feed, tab, newline and carriage return.
+
+* [abc.]	 It includes only one of specified characters i.e. ‘a’, ‘b’, ‘c’, or ‘.’
+* [a-j]      It includes all the characters from a to j.
+* [a-z]   	It includes all lowercase characters from a to z.
+* [^az]	   It includes all characters except a and z.
+* \w	       It includes all characters like [a-z, A-Z, 0-9]
+* \d	       It matches for the digits like [0-9]
+* [ab][^cde]	It matches that the characters a and b should not be followed by c, d and e.
+* \s	        It matches for [\f\t\n\r] i.e form feed, tab, newline and carriage return.
 
 
 More extensive list:
