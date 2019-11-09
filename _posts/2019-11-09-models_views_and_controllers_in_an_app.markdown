@@ -12,7 +12,7 @@ I'm studying Sinatra right now, and at first I had a hard time trying to delinea
 
 A **model** is what things are.
 
-A**view** is what things look like.
+A **view** is what things look like.
 
 A **controller** is what things do.
 
@@ -65,7 +65,7 @@ end
 
 
 
-The above examples are from my current lab.  As you can see 
+The above examples are from my current lab.  As you can see, the controllers and models are Classes.  The view is in html, because it is the visual look of things.
 
 
 
