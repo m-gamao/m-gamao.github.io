@@ -8,7 +8,7 @@ permalink:  models_views_and_controllers_in_an_app
 
 Models, Views, and Controllers are a framework for organizing a program's files.  You separate code by its function.
 
-I'm studying Sinatra right now, and at first I had a hard time trying to delineate these concepts from each other.  In a Ruby App, you will need these 3 parts.  To break it down simply:
+I'm studying Sinatra right now, and at first I had a hard time trying to delineate these concepts from each other, but I think I got the concepts down.  To break it down very simply -  In a Ruby App, you will need these 3 parts:
 
 A **model** is what things are.
 
