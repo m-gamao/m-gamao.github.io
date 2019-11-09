@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Models, Views, and Controllers in an App"
-date:       2019-11-09 16:46:39 +0000
+date:       2019-11-09 11:46:41 -0500
 permalink:  models_views_and_controllers_in_an_app
 ---
 
@@ -10,14 +10,12 @@ Models, Views, and Controllers are a framework for organizing a program's files.
 
 I'm studying Sinatra right now, and at first I had a hard time trying to delineate these concepts from each other.  In a Ruby App, you will need these 3 parts.  To break it down simply:
 
-A model is what things are.
+A **model** is what things are.
 
-A view is what things look like.
+A**view** is what things look like.
 
-A controller is what things do.
+A **controller** is what things do.
 
-
-Here's an example from the lab.  
 
 
 **A controller looks like this.  There's a lot of "getting" and "setting".  It shows what an object does.**
@@ -33,7 +31,7 @@ class ApplicationController < Sinatra::Base
 end
 
 
-**A model looks like this.  It defines what a genre is in the application.  **
+**A model looks like this.  It defines what a genre is in the application.**
 
 class Genre < ActiveRecord::Base
   has_many :song_genres
@@ -66,6 +64,8 @@ end
 </ul>
 
 
+
+The above examples are from my current lab.  As you can see 
 
 
 
