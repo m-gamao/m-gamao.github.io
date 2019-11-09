@@ -21,7 +21,7 @@ My gem is getting two levels of information from the website. The names of the c
 
 I created a CLI file which is the code that interacts with the user.  In my gem, the CLI presents the information to the user, asks for input, and shows them the details for that product.  The chair.rb file contains the data for all the chair names and data for the details on the chair that the user selects.
 
-This gem goes 2 levels deep in the website. The project taught me how to extract data off of a webpage and allow a user to interact with it. It was a challenge but overall the way that scraper gems work is interesting and I can see how it is useful for a lot of applications.
+This gem goes 2 levels deep in the website. The project taught me how to extract data off of a webpage and allow a user to interact with it.  Overall the way that scraper gems work is interesting and I can see how it is useful for a lot of applications.
 
 
 
