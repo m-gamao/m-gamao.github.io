@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Intro to Sinatra gems"
-date:       2019-12-22 17:12:45 +0000
+title:      "Intro to Sinatra"
+date:       2019-12-22 12:12:46 -0500
 permalink:  intro_to_sinatra_gems
 ---
 
